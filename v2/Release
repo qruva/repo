@@ -1,0 +1,8 @@
+Origin: Qruva Silver
+Label: Qruva Silver
+Suite: stable
+Version: 17.3.6
+Codename: cydia-ios
+Architectures: iphoneos-arm
+Components: main
+Description: A Fantastic Repo maintained by @qruva.
