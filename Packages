@@ -1,41 +1,55 @@
 Package: com.fantasticstore.altstore
 Version: 1.0
 Architecture: iphoneos-arm
-Maintainer: JailbreakNews4U <Imsorrydaddy2@gmail.com>
+Maintainer: Qruva
 Filename: ./debs/com.fantasticstore.altstore_1.0_iphoneos-arm.deb
 Size: 2446702 
 MD5sum: c6e534faa1e5e4778c38ef66b73e2022
 SHA1: 109380f7fa3c3d46f61ba8f9efa736c82041eba5
 SHA256: 5c962a5d09b03c6d9f40125af247e67c5c95e4cfe54c5dcb06561806ed5b6e0f
 Section: Applications 
-Description: Install Altstore but make sure you include Altdeamon for this to work!
-Author: JailbreakNews4U <Imsorrydaddy2@gmail.com>
+Description: AltStore App (Doesnt work without altserver)
+Author: Qruva
 Name: AltStore
-
-Package: com.enmity.core
-Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: JailbreakNews4U <Imsorrydaddy2@gmail.com>
-Filename: ./debs/com.enmity.core.deb
-Size: 2446702 
-MD5sum: c6e534faa1e5e4778c38ef66b73e2022
-SHA1: 109380f7fa3c3d46f61ba8f9efa736c82041eba5
-SHA256: 5c962a5d09b03c6d9f40125af247e67c5c95e4cfe54c5dcb06561806ed5b6e0f
-Section: Cores 
-Description: Install Altstore but make sure you include Altdeamon for this to work!
-Author: JailbreakNews4U <Imsorrydaddy2@gmail.com>
-Name: Enmity Core
 
 Package: com.enmity.sideload
 Version: 1.0
 Architecture: iphoneos-arm
-Maintainer: JailbreakNews4U <Imsorrydaddy2@gmail.com>
+Maintainer: Qruva
 Filename: ./debs/com.enmity.sideload.deb
 Size: 2446702 
 MD5sum: c6e534faa1e5e4778c38ef66b73e2022
 SHA1: 109380f7fa3c3d46f61ba8f9efa736c82041eba5
 SHA256: 5c962a5d09b03c6d9f40125af247e67c5c95e4cfe54c5dcb06561806ed5b6e0f
-Section: Applications 
-Description: Install Altstore but make sure you include Altdeamon for this to work!
-Author: JailbreakNews4U <Imsorrydaddy2@gmail.com>
+Section: App Mods 
+Description: Install plugins/themes into discord. (Requires Official discord app)
+Author: Qruva
 Name: Enmity
+
+Package: weeb.lillie.youtubedislikesreturn_1.6.8_iphoneos-arm
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Qruva
+Filename: ./debs/weeb.lillie.youtubedislikesreturn_1.6.8_iphoneos-arm.deb
+Size: 2446702 
+MD5sum: c6e534faa1e5e4778c38ef66b73e2022
+SHA1: 109380f7fa3c3d46f61ba8f9efa736c82041eba5
+SHA256: 5c962a5d09b03c6d9f40125af247e67c5c95e4cfe54c5dcb06561806ed5b6e0f
+Section: App Mods 
+Description: Bring Back Youtube Dislikes
+Author: Qruva
+Name: YouTube Dislikes
+
+Package: com.fantasticstore.spotify++_1.0_iphoneos-arm
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Qruva
+Filename: ./debs/com.fantasticstore.spotify++_1.0_iphoneos-arm.deb
+Size: 2446702 
+MD5sum: c6e534faa1e5e4778c38ef66b73e2022
+SHA1: 109380f7fa3c3d46f61ba8f9efa736c82041eba5
+SHA256: 5c962a5d09b03c6d9f40125af247e67c5c95e4cfe54c5dcb06561806ed5b6e0f
+Section: Cracked Software
+Description: Free spotify premium.
+Author: Qruva
+Name: Spotify++
