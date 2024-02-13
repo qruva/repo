@@ -23,8 +23,11 @@ SHA1: 109380f7fa3c3d46f61ba8f9efa736c82041eba5
 SHA256: 5c962a5d09b03c6d9f40125af247e67c5c95e4cfe54c5dcb06561806ed5b6e0f
 Section: App Mods 
 Description: Install plugins/themes into discord. (Requires Official discord app)
+Tag: cydia::commercial
 Author: Qruva
 Name: Enmity
+Depiction: https://havoc.app/depiction/dleasy
+SileoDepiction: https://havoc.app/package/dleasy/depiction.json
 
 Package: weeb.lillie.youtubedislikesreturn_1.6.8_iphoneos-arm
 Version: 1.0
