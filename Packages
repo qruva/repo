@@ -1,0 +1,13 @@
+Package: com.fantasticstore.altstore
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: JailbreakNews4U <Imsorrydaddy2@gmail.com>
+Filename: ./debs/com.fantasticstore.altstore_1.0_iphoneos-arm.deb
+Size: 2446702 
+MD5sum: c6e534faa1e5e4778c38ef66b73e2022
+SHA1: 109380f7fa3c3d46f61ba8f9efa736c82041eba5
+SHA256: 5c962a5d09b03c6d9f40125af247e67c5c95e4cfe54c5dcb06561806ed5b6e0f
+Section: Applications 
+Description: Install Altstore but make sure you include Altdeamon for this to work!
+Author: JailbreakNews4U <Imsorrydaddy2@gmail.com>
+Name: AltStore
