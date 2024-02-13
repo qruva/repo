@@ -12,6 +12,24 @@ Description: AltStore App (Doesnt work without altserver)
 Author: Qruva
 Name: AltStore
 
+Package: com.muirey03.powermodule
+Name: PowerModule
+Version: 1.3.1
+Section: Tweaks
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, com.opa334.ccsupport, preferenceloader
+Installed-Size: 652
+Author: Muirey03 <tcmuir03@gmail.com>
+Maintainer: Muirey03 <tcmuir03@gmail.com>
+Description: Group different utility actions into one control center module (iOS 11 only)
+Depiction: https://havoc.app/depiction/powermodule
+Icon: https://media.havoc.app/61f940c601a1cb7a5c422dd3
+Size: 73568
+MD5sum: 28b582531f2c4ddedcd3feba38d1453d
+SHA256: 0b7ba150db26222103dc839dffaa9bfccfb2b8e500c9fd1f6ca380b3c8f3f539
+Filename: https://havoc.app/api/download/package/620bbeb27f5158b1673ed282/com.muirey03.powermodule_1.3.1.deb
+SileoDepiction: https://havoc.app/package/powermodule/depiction.json
+
 Package: com.enmity.sideload
 Version: 1.0
 Architecture: iphoneos-arm
@@ -23,11 +41,8 @@ SHA1: 109380f7fa3c3d46f61ba8f9efa736c82041eba5
 SHA256: 5c962a5d09b03c6d9f40125af247e67c5c95e4cfe54c5dcb06561806ed5b6e0f
 Section: App Mods 
 Description: Install plugins/themes into discord. (Requires Official discord app)
-Tag: cydia::commercial
 Author: Qruva
 Name: Enmity
-Depiction: https://havoc.app/depiction/dleasy
-SileoDepiction: https://havoc.app/package/dleasy/depiction.json
 
 Package: weeb.lillie.youtubedislikesreturn_1.6.8_iphoneos-arm
 Version: 1.0
